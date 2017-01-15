@@ -35,3 +35,4 @@
 25. Using transition framework for Awesome UI Transitions.
 26. Introduction to Cool UI Libraries.
 27. Making your own cool PageTransformer.
+28. UI Ergonomics and Uniformity in Data Representation
